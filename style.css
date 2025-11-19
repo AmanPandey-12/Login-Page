@@ -64,13 +64,13 @@
     }
 
     .from-box.register{
-      visibility: hidden;
+      visibility: visible;
       right: 50%;
     }
 
     .container.active .from-box.register{
       visibility: visible;
-      right: 0;
+      right: 50%;
     }
 
     .input-box{
@@ -204,3 +204,4 @@
       box-shadow: none;
 
     }
+
